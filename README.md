@@ -1,3 +1,4 @@
 CUBLAB
 ZORTLAMALIK
 MEHMET
+gedikli
